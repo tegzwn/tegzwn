@@ -3,7 +3,7 @@
 Senior student from China, NOOB
 - 🔭 I’m currently working on [linux-orangepi](https://github.com/tegzwn/linux-orangepi)
 - 📫 How to reach me: tianjianh@outlook.com
-- 
+  
 ## Platform/IDE/Device
 
 [![Ubuntu Card](https://img.shields.io/badge/OS-Ubuntu-green?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
