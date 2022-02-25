@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=tegzwn&label=Profile%20views&color=0e75b6&style=flat" alt="tegzwn" /> </p>
 Senior student from China, NOOB
 - 🔭 I’m currently working on [linux-orangepi](https://github.com/tegzwn/linux-orangepi)
-- 📫 How to reach me: tianjianh@outlook.com
+- 📫 How to reach me: tegzwn@outlook.com
   
 ## Platform/IDE/Device
 
